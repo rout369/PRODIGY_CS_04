@@ -19,13 +19,15 @@
 
 
 ### 🛠️ Setup Screenshot
-![Setup Screenshot](screenshots/setup.png)
+![Setup Screenshot](screenshots/setup1.png)
+![Setup Screenshot](screenshots/setup2.png)
+![Setup Screenshot](screenshots/setup3.png)
 
 ### 🧪 Tool Usage
 ![Tool Usage](screenshots/usage.png)
 
 ### 🔓 Decrypter Output
-![Decrypter Output](screenshots/decrypter_output.png)
+![Decrypter Output](screenshots/decrypter.png)
 
 ---
 
